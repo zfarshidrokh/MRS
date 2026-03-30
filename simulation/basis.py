@@ -1,17 +1,3 @@
-####################################################################################################
-#                                             basis.py                                             #
-####################################################################################################
-#                                                                                                  #
-# Authors: J. P. Merkofer (j.p.merkofer@tue.nl)                                                    #
-#                                                                                                  #
-# Created: 03/02/23                                                                                #
-#                                                                                                  #
-# Purpose: Defines a main structure for MRS metabolite basis sets. Encapsulates all information    #
-#          and holds definitions to compute various aspects.                                       #
-#                                                                                                  #
-####################################################################################################
-
-
 
 import numpy as np
 import matplotlib.pyplot as plt  # For plotting
